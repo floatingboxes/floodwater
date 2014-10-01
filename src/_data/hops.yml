@@ -1,0 +1,92 @@
+- id: ahtanum
+  name: Ahtanum
+
+- id: amarillo
+  name: Amarillo
+
+- id: cascade
+  name: Cascade
+
+- id: centennial
+  name: Centennial
+
+- id: chinook
+  name: Chinook
+
+- id: columbus
+  name: Columbus
+
+- id: cluster
+  name: Cluster
+
+- id: crystal
+  name: Crystal
+
+- id: fuggle
+  name: Fuggle
+
+- id: galena
+  name: Galena
+
+- id: Golding
+  name: golding
+
+- id: hallertau
+  name: Hallertau
+
+- id: horizon
+  name: Horizon
+
+- id: liberty
+  name: Liberty
+
+- id: magnum
+  name: Magnum
+
+- id: mount-hood
+  name: Mount Hood
+
+- id: northern-brewer
+  name: Northern Brewer
+
+- id: nugget
+  name: Nugget
+
+- id: perle
+  name: Perle
+
+- id: saaz
+  name: Saaz
+
+- id: satus
+  name: Satus
+
+- id: simcoe
+  name: Simcoe
+
+- id: spalt-select
+  name: Spalt Select
+
+- id: Sterling
+  name: Sterling
+
+- id: tettnang
+  name: Tettnang
+
+- id: tomahawk
+  name: Tomahawk
+
+- id: ultra
+  name: Ultra
+
+- id: us-fuggle
+  name: Us Fuggle
+
+- id: vanguard
+  name: Vanguard
+
+- id: warrior
+  name: Warrior
+
+- id: willamette
+  name: Willamette

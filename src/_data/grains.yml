@@ -1,0 +1,115 @@
+# Base Malts
+
+- id: two-row
+  name: American 2-Row
+  type-id: base
+
+- id: pale
+  name: English pale
+  type-id: base
+
+- id: maris-otter
+  name: Maris Otter
+  type-id: base
+
+- id: golden-promise
+  name: Golden Promise
+  type-id: base
+
+- id: munich
+  name: Munich
+  type-id: base
+
+- id: dark-munich
+  name: Dark Munich
+  type-id: base
+
+- id: pilsner
+  name: pilsner
+  type-id: base
+
+# Specialty Malts
+
+- id: aromatic
+  name: aromatic
+  type-id: specialty
+
+- id: biscut
+  name: biscut
+  type-id: specialty
+
+- id: black-paptent
+  name: Black Patent
+  type-id: specialty
+
+- id: carapils
+  name: Cara-Pils
+  type-id: specialty
+
+- id: chocolate
+  name: Chocolate
+  type-id: specialty
+
+- id: caramel-10
+  name: Caramel 10
+  type-id: specialty
+
+- id: caramel-20
+  name: Caramel 20
+  type-id: specialty
+
+- id: caramel-40
+  name: Caramel 40
+  type-id: specialty
+
+- id: caramel-60
+  name: Caramel 60
+  type-id: specialty
+
+- id: caramel-80
+  name: Caramel 80
+  type-id: specialty
+
+- id: caramel-120
+  name: Caramel 120
+  type-id: specialty
+
+- id: pale-wheat
+  name: Pale Wheat
+  type-id: specialty
+
+- id: rye
+  name: Rye
+  type-id: specialty
+
+- id: roasted-barley
+  name: Roasted Barley
+  type-id: specialty
+
+- id: smoked
+  name: Smoked
+  type-id: specialty
+
+- id: peat
+  name: Peat
+  type-id: specialty
+
+- id: beechwood
+  name: Beechwood
+  type-id: specialty
+
+- id: cherrywood
+  name: Cherrywood
+  type-id: specialty
+
+- id: special-b
+  name: Special B
+  type-id: specialty
+
+- id: victory
+  name: Victory®
+  type-id: specialty
+
+- id: vienna
+  name: Vienna
+  type-id: specialty

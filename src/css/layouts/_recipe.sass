@@ -1,5 +1,11 @@
 .lo-recipe
-  +center(1000px)
+  +container(30em)
+
+  &__ingredients
+    +container(100%)
 
   &__ingredient
-    +col(1/3)
+    +span(1 of 3)
+
+    &:last-child
+      +span(last)

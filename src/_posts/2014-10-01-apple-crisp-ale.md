@@ -8,7 +8,7 @@ size: 1 Gallon
 mash-time: 60
 mash-temp: 150
 boil-time: 60
-status: fermenting
+status: bottled
 hops:
   - willamette: 0.3oz
   - mount-hood: 0.1oz
@@ -23,6 +23,7 @@ adjuncts:
   - 3 Peeled, Diced Apples
 gravity:
   - 1.054: Original
+  - 1.008: Bottling
 abv: n/a
 source: Brooklyn Brew Shop's Beer Making Book
 source-url: http://brooklynbrewshop.com/beermakingbook

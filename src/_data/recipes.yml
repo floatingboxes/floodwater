@@ -1,0 +1,66 @@
+- id: apple-crisp-ale
+  size: 1 Gallon
+  mash-time: 60
+  mash-temp: 150
+  boil-time: 60
+  status: bottled
+  hops:
+    - willamette: 0.3oz
+    - mount-hood: 0.1oz
+  grains:
+    - two-row: 2.0lb
+    - caramel-60: 0.1lb
+    - chocolate: 0.05lb
+  yeasts:
+    - safale-s-04
+  adjuncts:
+    - 1 Cinnimon Stick
+    - 3 Peeled, Diced Apples
+  source: "Brooklyn Brew Shop's Beer Making Book"
+  source-url: "http://brooklynbrewshop.com/beermakingbook"
+
+- id: eryday-ipa
+  size: 1 Gallon
+  mash-time: 60
+  mash-temp: 145
+  boil-time: 60
+  status: fermenting
+  hops:
+    - columbus: 0.1oz
+    - cascade: 0.5oz
+  grains:
+    - two-row: 1.8lb
+    - caramel-20: 0.4lb
+    - victory: 0.2lb
+    - munich: 0.2lb
+  boil:
+    - 0: All Columbus
+    - 15: 1/5 Cascade
+    - 30: 1/5 Cascade
+    - 45: 1/5 Cascade
+    - 55: 1/5 Cascade
+    - 60: 1/5 Cascade
+  yeasts:
+    - safale-s-05
+  source: "Brooklyn Brew Shop's Beer Making Book"
+  source-url: "http://brooklynbrewshop.com/beermakingbook"
+
+- id: rye-pa
+  size: 1 Gallon
+  mash-time: 60
+  mash-temp: 150
+  boil-time: 60
+  status: bottles
+  hops:
+    - nugget: 0.3oz
+    - willamette: 0.2oz
+  grains:
+    - maris-otter: 1lb
+    - two-row: 0.8lb
+    - rye: 0.4lb
+    - caramel-60: 0.16lb
+    - caramel-20: 0.1lb
+  yeasts:
+    - safale-s-05
+  source: "Brooklyn Brew Shop's Beer Making Book"
+  source-url: "http://brooklynbrewshop.com/beermakingbook"

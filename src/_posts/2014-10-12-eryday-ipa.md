@@ -6,7 +6,7 @@ updated: 2014-10-12 19:11:10
 title: E'ryday IPA
 recipe-id: eryday-ipa
 gravity:
-  - ??: Original
+  - 1.070: Original
 abv: n/a
 ---
 
